@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/ShubhamJha009/ShubhamJha009/blob/main/Dark%20Teal%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Shubham Jha</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
